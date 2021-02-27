@@ -1,0 +1,65 @@
+name: zhangsan
+age: 18
+
+#- '1'
+#- '2'
+#- '3'
+
+#people1:
+#  name: "zhangsan"
+#  age: "20"
+#people2:
+#  name: "lisi"
+#  age: "21"
+
+#people1:
+#  - "1"
+#  - "2"
+#  - "3"
+#people2:
+#  - "4"
+#  - "5"
+#  - "6"
+
+#-
+#  - "1"
+#  - "2"
+#  - "3"
+#-
+#  - "4"
+#  - "5"
+#  - "6"
+
+#-
+#  name: "zhaozhe"
+#  age: "23"
+#-
+#  name: "wangwu"
+#  age: "25"
+
+#- "1"
+#- "2"
+#-
+#  name:
+#    - "xiaoming"
+#    - "xiaohong"
+#  age: "18"
+#-
+#  -
+#    name: "xiaoqiang"
+#    age: "28"
+#  - "3"
+#  - "4"
+#- "5"
+#-
+#  - "7"
+#  - "8"
+
+#整数1: 1
+#整数2: 2
+#浮点数1: 1.5
+#浮点数2: 3.0
+#布尔型1: True
+#布尔型2: False
+#布尔型3: true
+#布尔型4: false
